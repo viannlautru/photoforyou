@@ -1,0 +1,28 @@
+Regler le slide ✔️
+----------------------------------
+Page inscription et connexion ✔️
+----------------------------------
+Mettre en oeuvre la inscription ✔️
+----------------------------------
+Mettre en oeuvre la connexion ✔️
+----------------------------------
+Mode dark and light ✔️
+/erreur 
+obliger de recharger la page car PHP
+----------------------------------
+Espace Client 
+-Voir les achats 
+----------------------------------
+Espace Photographe ✔️
+-Voirs tous sont profil ✔️
+-Envoye de photo sur son profil ✔️
+-Voir ses photos ✔️
+-Suppression de ses photos dans la bdd et fichier ✔️
+----------------------------------
+Passage de client à photographe et inversement ✔️
+----------------------------------
+Page acheter avec toute les photos ✔️
+----------------------------------
+Système de crédit 
+----------------------------------
+Page vendre pour les photographes
